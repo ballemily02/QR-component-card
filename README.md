@@ -22,24 +22,23 @@ In this challenge I had to recreate a QR code card using basic HTML and CSS, my 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ballemily02/QR-component-card](https://github.com/ballemily02/QR-component-card)
+- Live Site URL: [https://qr-component-card-32jjq4gvv-emilys-projects-e3e65b1f.vercel.app/](https://qr-component-card-32jjq4gvv-emilys-projects-e3e65b1f.vercel.app/)
 
 ## My process
 My process to complete the challenge was to first look at the figma file for each of the elements, then split up the design into divs in HTML, before attempting to style each in CSS.
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML
+- CSS
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
 Through this project I learnt how to be more confident in writing CSS and using divs to separate work in HTML.
 
-I also found that by the end of the challenge I could use flex-box in CSS a lot more easily due to the practice.
+I also found that by the end of the challenge I could use flexbox in CSS a lot more easily due to the practice.
 
 ### Useful resources
 
@@ -47,7 +46,6 @@ I also found that by the end of the challenge I could use flex-box in CSS a lot 
 
 ## Author
 
-- Website - [Emily Ball](https://www.your-site.com)
 - Frontend Mentor - [@ballemily02](https://www.frontendmentor.io/profile/ballemily02)
 
 
